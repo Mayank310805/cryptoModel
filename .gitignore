@@ -1,0 +1,4 @@
+*.pth
+generated_bins/
+__pycache__/
+*.pyc
